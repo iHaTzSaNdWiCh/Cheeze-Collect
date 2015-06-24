@@ -1,0 +1,13 @@
+#lives {
+  background: blue;
+  height: 50px;
+  text-align: center;
+  color: white;
+}
+ 
+#text {
+  background: yellow;
+  height: 100px;
+  text-align: left;
+  colour: blue;
+}
